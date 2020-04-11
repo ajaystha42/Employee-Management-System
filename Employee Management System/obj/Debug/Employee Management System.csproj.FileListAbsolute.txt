@@ -1,0 +1,103 @@
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Employee Management System.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Employee Management System.pdb
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Antlr3.Runtime.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.AspNet.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.Core.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\EntityFramework.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Microsoft.Web.Infrastructure.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\System.Web.Optimization.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\System.Web.Providers.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\WebGrease.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\EntityFramework.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.Core.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\DotNetOpenAuth.AspNet.xml
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csprojResolveAssemblyReference.cache
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Employee.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\Employee.pdb
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\CountryCity.dll
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\CountryCity.pdb
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\Employee Management System\bin\AjaxControlToolkit.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Employee Management System.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Employee Management System.pdb
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Antlr3.Runtime.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\AspNet.ScriptManager.jQuery.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\CountryCity.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.AspNet.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.Core.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Employee.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\EntityFramework.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Microsoft.ScriptManager.WebForms.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Microsoft.Web.Infrastructure.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\System.Web.Optimization.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\System.Web.Providers.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\WebGrease.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\CountryCity.pdb
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\Employee.pdb
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\EntityFramework.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.Core.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\bin\DotNetOpenAuth.AspNet.xml
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\obj\Debug\Employee Management System.dll
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+E:\asp.net\BACK UP\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csprojResolveAssemblyReference.cache
+E:\Minor project\Employee Management System\Employee Management System\bin\Employee Management System.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Employee Management System.pdb
+E:\Minor project\Employee Management System\Employee Management System\bin\Antlr3.Runtime.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\AspNet.ScriptManager.jQuery.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\CountryCity.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.AspNet.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.Core.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Employee.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\EntityFramework.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\Microsoft.Web.Infrastructure.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\System.Web.Optimization.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\System.Web.Providers.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\WebGrease.dll
+E:\Minor project\Employee Management System\Employee Management System\bin\CountryCity.pdb
+E:\Minor project\Employee Management System\Employee Management System\bin\Employee.pdb
+E:\Minor project\Employee Management System\Employee Management System\bin\EntityFramework.xml
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.Core.xml
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.xml
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.xml
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Minor project\Employee Management System\Employee Management System\bin\DotNetOpenAuth.AspNet.xml
+E:\Minor project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csprojResolveAssemblyReference.cache
+E:\Minor project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.dll
+E:\Minor project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb

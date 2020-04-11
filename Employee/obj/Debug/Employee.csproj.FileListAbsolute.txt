@@ -1,0 +1,10 @@
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee\bin\Debug\Employee.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee\bin\Debug\Employee.pdb
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee\obj\Debug\Employee.dll
+c:\users\azay\documents\visual studio 2012\Projects\Employee Management System\Employee\obj\Debug\Employee.pdb
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\asp.net\BACK UP\Employee Management System\Employee\bin\Debug\Employee.dll
+E:\asp.net\BACK UP\Employee Management System\Employee\bin\Debug\Employee.pdb
+E:\asp.net\BACK UP\Employee Management System\Employee\obj\Debug\Employee.dll
+E:\asp.net\BACK UP\Employee Management System\Employee\obj\Debug\Employee.pdb
+E:\asp.net\BACK UP\Employee Management System\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache

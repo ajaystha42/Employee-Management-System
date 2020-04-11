@@ -1,0 +1,79 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/User/UserMaster.Master" AutoEventWireup="true" CodeBehind="ULHome.aspx.cs" Inherits="Employee_Management_System.ULHome" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+   
+    <p>
+    home ho</p>
+<p>
+    adf</p>
+<p>
+    asd</p>
+<p>
+    aas</p>
+<p>
+    dasd</p>
+<p>
+    asd</p>
+<p>
+    asda</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        adas</p>
+    <p>
+        das</p>
+    <p>
+        das</p>
+    <p>
+        dasd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        as</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        asd</p>
+    <p>
+        as</p>
+    <p>
+        das</p>
+    <p>
+        das</p>
+    <p>
+        das</p>
+    <p>
+        d</p>
+    <p>
+        asd</p>
+    <p>
+        as</p>
+    <p>
+        das</p>
+    <p>
+        das</p>
+    <p>
+        das</p>
+    <p>
+        d</p>
+<p>
+    &nbsp;</p>
+   
+</asp:Content>

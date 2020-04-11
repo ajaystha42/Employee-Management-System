@@ -1,0 +1,9 @@
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\CountryCity\bin\Debug\CountryCity.dll
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\CountryCity\bin\Debug\CountryCity.pdb
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\CountryCity\obj\Debug\CountryCity.dll
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\CountryCity\obj\Debug\CountryCity.pdb
+C:\Users\Azay\documents\visual studio 2012\Projects\Employee Management System\CountryCity\obj\Debug\CountryCity.csprojResolveAssemblyReference.cache
+E:\asp.net\BACK UP\Employee Management System\CountryCity\bin\Debug\CountryCity.dll
+E:\asp.net\BACK UP\Employee Management System\CountryCity\bin\Debug\CountryCity.pdb
+E:\asp.net\BACK UP\Employee Management System\CountryCity\obj\Debug\CountryCity.dll
+E:\asp.net\BACK UP\Employee Management System\CountryCity\obj\Debug\CountryCity.pdb

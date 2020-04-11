@@ -1,0 +1,45 @@
+﻿body {
+}
+
+.header {
+    font-size: large;
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #CCFFCC;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color: #0066FF;
+    height: 150px;
+    width: 900px;
+    background-image: url('../Admin/1.jpg');
+    background-repeat: repeat-x;
+}
+.wrapper {  margin:20px ;
+}
+
+.menu {
+    background-color: #9999FF;
+    text-align: left;
+    vertical-align: middle;
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: #003300;
+    border-bottom-color: #333300;
+    padding-left: 10px;
+    width: auto;
+    height: 25px;
+    background-image: url('../Admin/blue-tech-abstract-background-vector0.jpg');
+}
+
+.content {
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    vertical-align: top;
+    text-align: left;
+    background-color: #999999;
+    padding: 10px;
+    background-image: url('../Images/login4.jpg');
+}
